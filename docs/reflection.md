@@ -1,6 +1,8 @@
 # STATS 607 Project 1Reflection Document
 **Name: Judy Wu**
 
+**Project url: https://github.com/judywu4800/spaceship_titanic.git**
+
 ## Original State of the Analysis
 The original analysis was conducted as part of **STAT GU4241 (Spring 2022)** using a single Jupyter notebook. The notebook contained exploratory data analysis, preprocessing, and model fitting steps in a linear fashion, but the workflow was not modularized. There was no clear directory structure, no environment management, and no testing framework, making it difficult for others to reproduce or extend the work.
 The original state has been preserved in the repository and can be restored with:
@@ -20,8 +22,6 @@ In future projects, I would try to set up clear directory structure and modulari
 
 ## Time Allocation
 - Finding a suitable project and setting up GitHub repository and structure: ~1 hours  
-- Refactoring notebook into modular scripts: ~3 hours  
-- Implementing testing strategy: ~1 hours  
+- Refactoring notebook into modular scripts, implementing testing strategy, debugging and polishing pipeline: ~5 hours
 - Documentation (README + docstrings + reflection): ~1 hours  
-- Debugging and polishing pipeline: ~1 hours
 **Total: ~7 hours** 
