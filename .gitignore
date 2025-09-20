@@ -16,7 +16,5 @@ __pycache__/
 # OS-specific
 .DS_Store
 
-# Data (do NOT commit raw Kaggle CSVs)
-data/raw/*
-!data/raw/README.md    # keep a placeholder readme if needed
+
 
