@@ -71,3 +71,16 @@ This script peforms:
 + Cross-validation stats → artifacts/sufficient-stats/
 + Evaluation metrics → results/tables/
 + Confusion matrices → results/figures/
++ 
+Example expected output (from terminal):
+```makefile
+lda: 0.7625
+qda: 0.7450
+log_reg: 0.7750
+knn: 0.7380
+random_forest: 0.8015
+gbdt: 0.7950
+naive_bayes: 0.7205
+```
+
+
