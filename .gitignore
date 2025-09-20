@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE / Editor
+.idea/
+.vscode/
+
+# OS-specific
+.DS_Store
+
+# Data (do NOT commit raw Kaggle CSVs)
+data/raw/*
+!data/raw/README.md    # keep a placeholder readme if needed
+
